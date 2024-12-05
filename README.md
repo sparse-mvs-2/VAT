@@ -4,7 +4,7 @@
 
 
 <a href='https://arxiv.org/pdf/2412.02202'><img src='https://img.shields.io/badge/arXiv-2412.02317-b31b1b.svg'></a>
-<a href='https://c8241998.github.io/HumanRig/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
+<a href='https://sparse-mvs-2.github.io/VAT.IO'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 
 ![teaser](assets/fig_vq.png)
 ![teaser](assets/fig_teaser.jpg)
