@@ -7,7 +7,7 @@
 <a href='https://c8241998.github.io/HumanRig/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 
 ![teaser](assets/fig_vq.png)
-![teaser](assets/fig_teaser.png)
+![teaser](assets/fig_teaser.jpg)
 </div>
 
 
